@@ -31,10 +31,10 @@ My current focus areas include:
 - 🐧 **Linux system administration** & **scripting**
 - 🔒 **Network security** & **cybersecurity fundamentals**
 - 🌐 **Web technologies** (HTML, CSS, JavaScript)
-- 🚀 **Building practical skills** through hands-on learning and contributing to open-source communities
-- 🕵️‍♂️ **Learning from CTF challenges** and expanding my knowledge in ethical hacking
+- 🚀 **Building practical skills** through hands-on learning and contributing to the tech community
+- 🕵️‍♂️ **Learning from CTF challenges** and expanding my knowledge in **security testing** and **vulnerability research**
 
-I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration**, **collaboration**, or **contributing to open-source communities**.
+I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration**, **collaboration**, or **contributing to the tech community**.
 
 ---
 
@@ -90,3 +90,5 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Romm31&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
