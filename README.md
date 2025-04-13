@@ -1,14 +1,8 @@
-<h1 align="center">
-  Hi, I'm Erwin Wijaya! 
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="50px"/>
-</h1>
+<h1 align="center">Hi, I'm Erwin Wijaya! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;CTF+Enthusiast;Web+%26+Network+Explorer;Member+of+IMPHNEN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;CTF+Enthusiast;Web+%26+Network+Explorer" alt="Typing SVG" />
 </p>
-
-<hr style="height:2px;border-width:0;color:gray;background:linear-gradient(90deg, #0e75b6, #3b82f6, #60a5fa);">
-
 
 <p align="center">
   <a href="mailto:erwinwijaya6510@gmail.com">
@@ -20,10 +14,9 @@
   <a href="https://discord.gg/EfMsJTDf">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Member-IMPHNEN-0d1117?style=flat&logo=github&logoColor=white&color=blue" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0d1117&section=header&text=&fontSize=20&animation=fadeIn&colorGradient=0e75b6,3b82f6,60a5fa"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 ## 🧑‍💻 About Me
 
@@ -34,15 +27,16 @@ I enjoy working with **Linux-based environments**, exploring system-level tools,
 
 In web development, I focus on building small projects using **HTML**, **CSS**, and **JavaScript**. I aim to expand my skills and explore new technologies within the web ecosystem.
 
-Current focus areas:
+My current focus areas include:
 - 🐧 **Linux system administration** & **scripting**
 - 🔒 **Network security** & **cybersecurity fundamentals**
 - 🌐 **Web technologies** (HTML, CSS, JavaScript)
 - 🚀 **Building practical skills** through hands-on learning
-- 🕵️‍♂️ **CTF challenges** & **vulnerability research**
+- 🕵️‍♂️ **Learning from CTF challenges** and expanding my knowledge in **security testing** and **vulnerability research**
 
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated-line.svg" />
+I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration** or **collaboration**.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 ## 🔧 Tech Stack & Skills
 
@@ -71,14 +65,14 @@ Current focus areas:
 - JavaScript fundamentals  
 - HTML & CSS  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0d1117&section=footer&text=&fontSize=20&animation=fadeIn&colorGradient=0e75b6,3b82f6,60a5fa"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 ## 📚 Education
 
 - 🎓 **Universitas Teknokrat Indonesia**  
   Informatics — *2024 – Present*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0d1117&section=footer&text=&fontSize=20&animation=fadeIn&colorGradient=0e75b6,3b82f6,60a5fa"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 ## 📈 GitHub Stats
 
@@ -87,7 +81,7 @@ Current focus areas:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0d1117&section=footer&text=&fontSize=20&animation=fadeIn&colorGradient=0e75b6,3b82f6,60a5fa"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 <p align="center">
   <i>"Constantly learning, even if it’s only in small increments — as long as I keep moving forward."</i>
@@ -97,4 +91,4 @@ Current focus areas:
   <img src="https://komarev.com/ghpvc/?username=Romm31&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0d1117&section=footer&text=&fontSize=20&animation=fadeIn&colorGradient=0e75b6,3b82f6,60a5fa"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
