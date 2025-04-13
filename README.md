@@ -20,22 +20,17 @@
 
 ## 🧑‍💻 About Me
 
-I’m **Erwin Wijaya**, an Informatics student from *Universitas Teknokrat Indonesia*.  
-I’m deeply passionate about **Linux**, **Cybersecurity**, and **Web & Network exploration**.  
+I’m an Informatics student at **Universitas Teknokrat Indonesia** with a strong interest in **Linux systems**, **cybersecurity**, and **web development**.
 
-Currently focusing on:
-- 🐧 Linux administration & scripting  
-- 🕵️‍♂️ Ethical hacking, OSINT, forensics  
-- 🌐 Web exploitation and bug hunting  
-- 🚀 Building hands-on experience through real labs & CTFs
+I enjoy working with Linux-based environments, exploring system-level tools, and building small projects to automate everyday tasks. I also like experimenting with network analysis tools and learning how systems communicate and behave in real scenarios.
 
-🛠️ I enjoy:
-- Tinkering with systems until I figure out how they work (or break them first 😆)  
-- Writing small Bash/Python scripts to automate things  
-- Analyzing network traffic and trying to trace weird behavior  
-- Playing Capture The Flag (CTF) challenges to sharpen my skills
+My current focus areas include:
+- 🐧 Linux system administration & scripting
+- 🔒 Network and cybersecurity fundamentals
+- 🌐 Web technologies (HTML, CSS, JavaScript)
+- 🚀 Building practical skills through hands-on learning
 
-> "Learning by doing, failing fast, and growing every day."
+I’m passionate about technology, eager to grow, and always open to learning something new — whether through self-exploration, collaboration, or contributing to open-source communities.
 
 ---
 
