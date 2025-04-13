@@ -97,7 +97,7 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 
 
 <p align="center">
-  <i>"Constantly learning, even if it’s only in small increments — as long as I keep moving forward."</i>
+  <i>"Progress, no matter how small, is still progress."</i>
 </p>
 
 <p align="center">
