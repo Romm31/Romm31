@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Erwin Wijaya! 👋</h1>
 <p align="center">
-  Cybersecurity Enthusiast | Linux User | Web & Network Explorer
+  Cybersecurity Enthusiast | CTF Enthusiast | Web & Network Explorer
 </p>
 
 ---
