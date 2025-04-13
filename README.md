@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I’m **Erwin Wijaya** — an Informatics student at *Universitas Teknokrat Indonesia* with a strong interest in **Linux systems**, **cybersecurity**, and **web development**.
+I’m an Informatics student at *Universitas Teknokrat Indonesia* with a strong interest in **Linux systems**, **cybersecurity**, and **web development**.
 
 I enjoy working with Linux-based environments, exploring system-level tools, and building small projects to automate everyday tasks. I also like experimenting with network analysis tools and learning how systems communicate and behave in real scenarios.
 
