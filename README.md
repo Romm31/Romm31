@@ -21,20 +21,18 @@
 ## 🧑‍💻 About Me
 
 I’m an **Informatics student** at **Universitas Teknokrat Indonesia** with a strong interest in **Linux systems**, **cybersecurity**, and **web development**.  
-Technology has always fascinated me, and I find myself constantly experimenting with different tools, trying to understand how things work at a deeper level.
+While I’m still learning and growing in the world of **CTF challenges**, I’m passionate about discovering new techniques and improving my problem-solving skills over time.
 
-I enjoy working with **Linux-based environments**, where I can explore system-level tools, configure servers, and automate tasks using **Bash** and **Python** scripts. I am passionate about **network analysis** and enjoy using tools like **Wireshark** and **Nmap** to understand how data flows across the network and how vulnerabilities can be discovered.
+I enjoy working with **Linux-based environments**, exploring system-level tools, and automating tasks using **Bash** and **Python** scripts. Experimenting with **network analysis** tools like **Wireshark** and **Nmap** helps me understand how systems communicate and behave in different scenarios.
 
-In addition, I like exploring **web development** and working with technologies like **HTML**, **CSS**, and **JavaScript** to build small projects, improve my skills, and explore new frameworks and tools in the web ecosystem. I am also diving deeper into the world of **ethical hacking** and **CTF challenges** to test my skills and gain practical experience in the cybersecurity field.
+In web development, I focus on building small projects using **HTML**, **CSS**, and **JavaScript**. I aim to expand my skills and explore new technologies within the web ecosystem.
 
 My current focus areas include:
 - 🐧 **Linux system administration** & **scripting**
 - 🔒 **Network security** & **cybersecurity fundamentals**
 - 🌐 **Web technologies** (HTML, CSS, JavaScript)
 - 🚀 **Building practical skills** through hands-on learning and contributing to open-source communities
-- 🕵️‍♂️ **Exploring vulnerabilities** through **CTF challenges** and learning from real-world scenarios
-
-I’m always looking for opportunities to learn and collaborate, as I believe in growing through both **self-exploration** and **collaboration**. My goal is to apply my knowledge to real-world problems, continually improve, and contribute back to the tech community by sharing what I learn.
+- 🕵️‍♂️ **Learning from CTF challenges** and expanding my knowledge in ethical hacking
 
 I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration**, **collaboration**, or **contributing to open-source communities**.
 
