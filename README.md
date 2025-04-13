@@ -39,8 +39,9 @@ My current focus areas include:
 I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration** or **collaboration**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/line.gif" alt="animated line" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" />
 </p>
+
 
 ## 🔧 Tech Stack & Skills <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/tools.gif" width="20px">
 
