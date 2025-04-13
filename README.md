@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Erwin Wijaya! 👋</h1>
+<h1 align="center">Hi, I'm Erwin Wijaya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;CTF+Enthusiast;Web+%26+Network+Explorer" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/computer.gif" width="20px">
 
 I’m an **Informatics student** at **Universitas Teknokrat Indonesia** with a strong interest in **Linux systems**, **cybersecurity**, and **web development**.  
 While I’m still learning and growing in the world of **CTF challenges**, I’m passionate about discovering new techniques and improving my problem-solving skills over time.
@@ -38,7 +38,7 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 
 ---
 
-## 🔧 Tech Stack & Skills
+## 🔧 Tech Stack & Skills <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/tools.gif" width="20px">
 
 ### ⚙️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
@@ -63,18 +63,18 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 
 - Python basics  
 - JavaScript fundamentals  
-- HTML & CSS  
+- HTML & CSS fundamentals
 
 ---
 
-## 📚 Education
+## 📚 Education <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/book.gif" width="20px">
 
 - 🎓 **Universitas Teknokrat Indonesia**  
   Informatics — *2024 – Present*
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/stats.gif" width="20px">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
