@@ -1,8 +1,14 @@
-<h1 align="center">Hi, I'm Erwin Wijaya! 👋</h1>
+<h1 align="center">
+  Hi, I'm Erwin Wijaya! 
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="50px"/>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;CTF+Enthusiast;Web+%26+Network+Explorer;Member+of+IMPHNEN" alt="Typing SVG" />
 </p>
+
+<hr style="height:2px;border-width:0;color:gray;background:linear-gradient(90deg, #0e75b6, #3b82f6, #60a5fa);">
+
 
 <p align="center">
   <a href="mailto:erwinwijaya6510@gmail.com">
