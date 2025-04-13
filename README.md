@@ -67,18 +67,14 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 - JavaScript fundamentals  
 - HTML & CSS  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/line.gif" alt="animated line" width="100%" />
-</p>
+---
 
 ## 📚 Education <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/book.gif" width="20px">
 
 - 🎓 **Universitas Teknokrat Indonesia**  
   Informatics — *2024 – Present*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/line.gif" alt="animated line" width="100%" />
-</p>
+---
 
 ## 📈 GitHub Stats <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/stats.gif" width="20px">
 
@@ -87,9 +83,7 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/line.gif" alt="animated line" width="100%" />
-</p>
+---
 
 <p align="center">
   <i>"Constantly learning, even if it’s only in small increments — as long as I keep moving forward."</i>
@@ -99,6 +93,4 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
   <img src="https://komarev.com/ghpvc/?username=Romm31&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/line.gif" alt="animated line" width="100%" />
-</p>
+---
