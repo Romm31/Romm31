@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Erwin Wijaya! 👋</h1>
 <p align="center">
-  Cybersecurity Enthusiast | Linux Fanboy | Web & Network Explorer
+  Cybersecurity Enthusiast | Linux User | Web & Network Explorer
 </p>
 
 ---
@@ -27,9 +27,10 @@ I’m passionate about technology, eager to grow, and always open to learning so
 ## 🔧 Tech Stack & Skills
 
 ### ⚙️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-005571?logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-005571?logo=kalilinux&logoColor=white)
 
 - Linux CLI & scripting  
+- Ubuntu for daily use and development  
 - Kali Linux for security testing  
 - Bash & terminal utilities  
 
@@ -39,11 +40,11 @@ I’m passionate about technology, eager to grow, and always open to learning so
 - Packet analysis (Wireshark, Nmap)  
 
 ### 💻 Programming & Web
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 - Python basics  
 - JavaScript fundamentals  
-- HTML/CSS  
+- HTML & CSS  
 
 ---
 
@@ -64,5 +65,5 @@ I’m passionate about technology, eager to grow, and always open to learning so
 ---
 
 <p align="center">
-  <i>"Always learning, even if it's little by little — as long as I don't stop!"</i>
+  <i>"Constantly learning, even if it’s only in small increments — as long as I keep moving forward."</i>
 </p>
