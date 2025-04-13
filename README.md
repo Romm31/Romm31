@@ -56,9 +56,14 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 - Bash & terminal utilities  
 
 ### 🔐 Cybersecurity
+![Cryptography](https://img.shields.io/badge/Cryptography-3498db?logo=python&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-29b6f6?logo=internet-explorer&logoColor=white)
+![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-4A4A4A?logo=wireshark&logoColor=white)
+
 - Cryptography & Forensics  
 - OSINT (Open Source Intelligence)  
 - Packet analysis (Wireshark, Nmap)  
+
 
 ### 💻 Programming & Web
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
