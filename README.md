@@ -16,10 +16,9 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+---
 
-
-## 🧑‍💻 About Me <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/computer.gif" width="20px">
+## 🧑‍💻 About Me
 
 I’m an **Informatics student** at **Universitas Teknokrat Indonesia** with a strong interest in **Linux systems**, **cybersecurity**, and **web development**.  
 While I’m still learning and growing in the world of **CTF challenges**, I’m passionate about discovering new techniques and improving my problem-solving skills over time.
@@ -28,24 +27,20 @@ I enjoy working with **Linux-based environments**, exploring system-level tools,
 
 In web development, I focus on building small projects using **HTML**, **CSS**, and **JavaScript**. I aim to expand my skills and explore new technologies within the web ecosystem.
 
-My current focus areas include:
-- 🐧 **Linux system administration** & **scripting**
-- 🔒 **Network security** & **cybersecurity fundamentals**
-- 🌐 **Web technologies** (HTML, CSS, JavaScript)
-- 🚀 **Building practical skills** through hands-on learning
-- 🕵️‍♂️ **Learning from CTF challenges** and expanding my knowledge in **security testing** and **vulnerability research**
-
-I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration** or **collaboration**.
+**Current focus areas:**
+- Linux system administration & scripting  
+- Network security & cybersecurity fundamentals  
+- Web technologies (HTML, CSS, JavaScript)  
+- Building practical skills through hands-on learning  
+- Learning from CTF challenges and exploring vulnerability research
 
 > "Every small bit of learning matters — it's still better than doing nothing at all."
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+## 🔧 Tech Stack & Skills
 
-
-## 🔧 Tech Stack & Skills <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/tools.gif" width="20px">
-
-### ⚙️ Operating Systems
+### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-005571?logo=kalilinux&logoColor=white)
@@ -55,7 +50,7 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 - Kali Linux for security testing  
 - Bash & terminal utilities  
 
-### 🔐 Cybersecurity
+### Cybersecurity
 ![Cryptography](https://img.shields.io/badge/Cryptography-3498db?logo=python&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-29b6f6?logo=internet-explorer&logoColor=white)
 ![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-4A4A4A?logo=wireshark&logoColor=white)
@@ -64,8 +59,7 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 - OSINT (Open Source Intelligence)  
 - Packet analysis (Wireshark, Nmap)  
 
-
-### 💻 Programming & Web
+### Programming & Web
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
@@ -75,26 +69,23 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 - JavaScript fundamentals  
 - HTML & CSS  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+---
 
+## 📚 Education
 
-## 📚 Education <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/book.gif" width="20px">
-
-- 🎓 **Universitas Teknokrat Indonesia**  
+- **Universitas Teknokrat Indonesia**  
   Informatics — *2024 – Present*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+---
 
-
-## 📈 GitHub Stats <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/stats.gif" width="20px">
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
-
+---
 
 <p align="center">
   <i>"Progress, no matter how small, is still progress."</i>
@@ -103,5 +94,3 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Romm31&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
