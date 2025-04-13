@@ -41,7 +41,8 @@ Current focus areas:
 - 🚀 **Building practical skills** through hands-on learning
 - 🕵️‍♂️ **CTF challenges** & **vulnerability research**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0d1117&section=footer&text=&fontSize=20&animation=fadeIn&colorGradient=0e75b6,3b82f6,60a5fa"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/animated-line.svg" />
+
 
 ## 🔧 Tech Stack & Skills
 
