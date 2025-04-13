@@ -31,10 +31,10 @@ My current focus areas include:
 - 🐧 **Linux system administration** & **scripting**
 - 🔒 **Network security** & **cybersecurity fundamentals**
 - 🌐 **Web technologies** (HTML, CSS, JavaScript)
-- 🚀 **Building practical skills** through hands-on learning and contributing to the tech community
+- 🚀 **Building practical skills** through hands-on learning
 - 🕵️‍♂️ **Learning from CTF challenges** and expanding my knowledge in **security testing** and **vulnerability research**
 
-I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration**, **collaboration**, or **contributing to the tech community**.
+I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration** or **collaboration**.
 
 ---
 
