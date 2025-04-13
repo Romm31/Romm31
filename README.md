@@ -20,20 +20,20 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Erwin Wijaya**, an Informatics student from *Universitas Teknokrat Indonesia*.  
-I’m deeply passionate about **Linux**, **Cybersecurity**, and **Web & Network exploration**.
-
-🛠️ I'm the kind of person who enjoys:
-- Tinkering with systems until I figure out how they work (or break them first 😆)  
-- Writing small Bash/Python scripts to automate things  
-- Analyzing network traffic and trying to trace weird behavior  
-- Playing Capture The Flag (CTF) challenges to sharpen my skills
+I’m **Erwin Wijaya**, an Informatics student from *Universitas Teknokrat Indonesia*.  
+I’m deeply passionate about **Linux**, **Cybersecurity**, and **Web & Network exploration**.  
 
 Currently focusing on:
 - 🐧 Linux administration & scripting  
 - 🕵️‍♂️ Ethical hacking, OSINT, forensics  
 - 🌐 Web exploitation and bug hunting  
 - 🚀 Building hands-on experience through real labs & CTFs
+
+🛠️ I enjoy:
+- Tinkering with systems until I figure out how they work (or break them first 😆)  
+- Writing small Bash/Python scripts to automate things  
+- Analyzing network traffic and trying to trace weird behavior  
+- Playing Capture The Flag (CTF) challenges to sharpen my skills
 
 > "Learning by doing, failing fast, and growing every day."
 
