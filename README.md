@@ -40,7 +40,8 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 > "Every small bit of learning matters — it's still better than doing nothing at all."
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+
 
 ## 🔧 Tech Stack & Skills <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/tools.gif" width="20px">
 
@@ -69,14 +70,16 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
 - JavaScript fundamentals  
 - HTML & CSS  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+
 
 ## 📚 Education <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/book.gif" width="20px">
 
 - 🎓 **Universitas Teknokrat Indonesia**  
   Informatics — *2024 – Present*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+
 
 ## 📈 GitHub Stats <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/stats.gif" width="20px">
 
@@ -85,7 +88,8 @@ I’m passionate about **technology**, eager to grow, and always open to learnin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+
 
 <p align="center">
   <i>"Constantly learning, even if it’s only in small increments — as long as I keep moving forward."</i>
