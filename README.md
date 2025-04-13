@@ -16,9 +16,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/line.gif" alt="animated line" width="100%" />
-</p>
+---
 
 ## 🧑‍💻 About Me <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/computer.gif" width="20px">
 
@@ -38,10 +36,9 @@ My current focus areas include:
 
 I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration** or **collaboration**.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" />
-</p>
+> "Learning by doing, failing fast, and growing every day."
 
+---
 
 ## 🔧 Tech Stack & Skills <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/main/icons/tools.gif" width="20px">
 
