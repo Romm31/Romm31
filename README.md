@@ -36,7 +36,8 @@ My current focus areas include:
 
 I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration** or **collaboration**.
 
-> "Learning by doing, failing fast, and growing every day."
+> "Every small bit of learning matters — it's still better than doing nothing at all."
+
 
 ---
 
