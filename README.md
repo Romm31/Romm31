@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 ## 🧑‍💻 About Me
 
@@ -34,7 +34,9 @@ My current focus areas include:
 - 🚀 **Building practical skills** through hands-on learning
 - 🕵️‍♂️ **Learning from CTF challenges** and expanding my knowledge in **security testing** and **vulnerability research**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+I’m passionate about **technology**, eager to grow, and always open to learning something new, whether through **self-exploration** or **collaboration**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 ## 🔧 Tech Stack & Skills
 
@@ -63,14 +65,14 @@ My current focus areas include:
 - JavaScript fundamentals  
 - HTML & CSS  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 ## 📚 Education
 
 - 🎓 **Universitas Teknokrat Indonesia**  
   Informatics — *2024 – Present*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 ## 📈 GitHub Stats
 
@@ -79,7 +81,7 @@ My current focus areas include:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
 
 <p align="center">
   <i>"Constantly learning, even if it’s only in small increments — as long as I keep moving forward."</i>
@@ -89,4 +91,4 @@ My current focus areas include:
   <img src="https://komarev.com/ghpvc/?username=Romm31&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,0d1117,3b82f6&height=1"/>
