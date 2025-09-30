@@ -65,12 +65,16 @@ In web development, I focus on building small projects using **HTML**, **CSS**, 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
 - Python basics  
 - JavaScript fundamentals  
 - HTML & CSS  
-- PHP
-  
+- PHP  
+- TypeScript fundamentals  
+- Next.js basics  
+
 ---
 
 ## 📚 Education
