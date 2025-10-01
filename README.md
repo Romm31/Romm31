@@ -75,6 +75,15 @@ In web development, I focus on building small projects using **HTML**, **CSS**, 
 - TypeScript fundamentals  
 - Next.js basics  
 
+### Infrastructure & Containerization
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)
+
+- Containerization with Docker  
+- Writing and optimizing Dockerfiles  
+- Managing multi-service apps using Docker Compose  
+- Basic deployment on VPS with Docker  
+
 ---
 
 ## 📚 Education
