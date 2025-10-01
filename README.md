@@ -77,7 +77,6 @@ In web development, I focus on building small projects using **HTML**, **CSS**, 
 
 ### Infrastructure & Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)
 
 - Containerization with Docker  
 - Writing and optimizing Dockerfiles  
