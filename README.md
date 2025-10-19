@@ -97,14 +97,6 @@ security_domains = {
     }
 }
 
-# Additional Security Tools
-security_tools = [
-    "Network Traffic Analysis (Wireshark)",
-    "Vulnerability Scanning (Nmap)",
-    "Open Source Intelligence (OSINT)",
-    "Digital Forensics & Incident Response",
-    "Security Tool Development"
-]
 ```
 
 ---
@@ -197,12 +189,13 @@ security_tools = [
 
 ## 🎯 Current Learning Path
 
-<div align="center">
+## 🎯 Current Learning Path
 
+<div align="center">
 ```mermaid
-%%{init: {'theme':'default', 'themeVariables': { 'fontSize':'16px', 'darkMode':'false', 'background':'#ffffff', 'primaryColor':'#8B0000', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#8B0000', 'lineColor':'#8B0000', 'secondaryColor':'#A52A2A', 'tertiaryColor':'#DC143C', 'clusterBkg':'#f0f0f0', 'clusterBorder':'#8B0000', 'titleColor':'#8B0000', 'edgeLabelBackground':'#ffffff', 'nodeTextColor':'#ffffff', 'mainBkg':'#8B0000', 'nodeBorder':'#8B0000', 'textColor':'#000000'}}}%%
+%%{init: {'theme':'default', 'themeVariables': { 'fontSize':'18px', 'fontFamily':'arial', 'darkMode':'false', 'background':'#ffffff', 'primaryColor':'#8B0000', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#8B0000', 'lineColor':'#8B0000', 'secondaryColor':'#A52A2A', 'secondaryTextColor':'#000000', 'secondaryBorderColor':'#8B0000', 'tertiaryColor':'#DC143C', 'tertiaryTextColor':'#000000', 'tertiaryBorderColor':'#8B0000', 'clusterBkg':'#f9f9f9', 'clusterBorder':'#8B0000', 'titleColor':'#8B0000', 'edgeLabelBackground':'#ffffff', 'nodeTextColor':'#000000', 'mainBkg':'#8B0000', 'nodeBorder':'#8B0000', 'textColor':'#000000'}}}%%
 mindmap
-  root((Erwin Wijaya))
+  root((Erwin<br/>Wijaya))
     Cybersecurity
       Web Security
       Cryptography
