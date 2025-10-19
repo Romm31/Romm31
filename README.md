@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 Professional Summary
+## Professional Summary
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" align="right">
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 **Universitas Teknokrat Indonesia** | *2024 - Present*  
 Bachelor of Informatics Engineering  
@@ -42,7 +42,7 @@ Bachelor of Informatics Engineering
 
 ---
 
-## 💼 Technical Expertise
+## Technical Expertise
 
 ### Operating Systems & Infrastructure
 
@@ -139,11 +139,11 @@ security_domains = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-### 📈 Performance Metrics
+### Performance Metrics
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ security_domains = {
 </tr>
 </table>
 
-### 💻 Language Distribution & Activity
+### Language Distribution & Activity
 
 <table>
 <tr>
@@ -249,7 +249,7 @@ mindmap
 |:--------:|:-------------------:|
 | 📧 Email | [erwinwijaya6510@gmail.com](mailto:erwinwijaya6510@gmail.com) |
 | 💼 LinkedIn | [Erwin Wijaya](https://linkedin.com/in/erwin-wijaya-b68b11299) |
-| 💬 Discord | [Join Server](https://discord.gg/EfMsJTDf) |
+| 💬 Discord | [Contact](https://discord.gg/EfMsJTDf) |
 
 ### Profile Analytics
 
@@ -264,6 +264,6 @@ mindmap
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:4A0000&height=120&section=footer"/>
 
-**© 2025 Erwin Wijaya** | *Committed to Excellence in Cybersecurity and Software Engineering*
+**© 2025 Erwin Wijaya** | *Calm as sand, sharp as code*
 
 </div>
