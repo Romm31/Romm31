@@ -1,110 +1,127 @@
-<h1 align="center">Hi, I'm Erwin Wijaya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;CTF+Enthusiast;Web+%26+Network+Explorer" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Erwin Wijaya
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;CTF+Challenge+Explorer+%F0%9F%8F%86;Linux+%26+Network+Specialist+%F0%9F%90%A7;Web+Developer+in+Progress+%F0%9F%9A%80" alt="Typing SVG" />
+
+<p>
   <a href="mailto:erwinwijaya6510@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/erwin-wijaya-b68b11299">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.gg/EfMsJTDf">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 🧑‍💻 About Me
-
-I’m an **Informatics student** at **Universitas Teknokrat Indonesia** with a strong interest in **Linux systems**, **cybersecurity**, and **web development**.  
-While I’m still learning and growing in the world of **CTF challenges**, I’m passionate about discovering new techniques and improving my problem-solving skills over time.
-
-I enjoy working with **Linux-based environments**, exploring system-level tools, and automating tasks using **Bash** and **Python** scripts. Experimenting with **network analysis** tools like **Wireshark** and **Nmap** helps me understand how systems communicate and behave in different scenarios.
-
-In web development, I focus on building small projects using **HTML**, **CSS**, and **JavaScript**. I aim to expand my skills and explore new technologies within the web ecosystem.
-
-**Current focus areas:**
-- Linux system administration & scripting  
-- Network security & cybersecurity fundamentals  
-- Web technologies (HTML, CSS, JavaScript)  
-- Building practical skills through hands-on learning  
-- Learning from CTF challenges and exploring vulnerability research
-
-> "Every small bit of learning matters — it's still better than doing nothing at all."
+</div>
 
 ---
 
-## 🔧 Tech Stack & Skills
+## 🎯 About Me
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-005571?logo=kalilinux&logoColor=white)
+```typescript
+const erwin = {
+    location: "Bandar Lampung, Indonesia 🇮🇩",
+    education: "Universitas Teknokrat Indonesia",
+    major: "Informatics Engineering",
+    year: "2024 - Present",
+    interests: ["Cybersecurity", "CTF Challenges", "Linux Systems", "Web Development"],
+    currentFocus: [
+        "🐧 Linux system administration & scripting",
+        "🔒 Network security & cybersecurity fundamentals",
+        "🌐 Web technologies (HTML, CSS, JavaScript, TypeScript, Next.js)",
+        "🛠️ Building practical skills through hands-on learning",
+        "🚩 Learning from CTF challenges and vulnerability research"
+    ],
+    motto: "Every small bit of learning matters — it's still better than doing nothing at all"
+};
+```
 
-- Linux CLI & scripting  
-- Ubuntu for daily use and development  
-- Kali Linux for security testing  
-- Bash & terminal utilities  
+<div align="center">
+  
+### 💡 *"Progress, no matter how small, is still progress."*
 
-### Cybersecurity
-![Cryptography](https://img.shields.io/badge/Cryptography-3498db?logo=python&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-29b6f6?logo=internet-explorer&logoColor=white)
-![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-4A4A4A?logo=wireshark&logoColor=white)
-
-- Cryptography & Forensics  
-- OSINT (Open Source Intelligence)  
-- Packet analysis (Wireshark, Nmap)  
-
-### Programming & Web
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-
-- Python basics  
-- JavaScript fundamentals  
-- HTML & CSS  
-- PHP  
-- TypeScript fundamentals  
-- Next.js basics  
-
-### Infrastructure & Containerization
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-- Containerization with Docker  
-- Writing and optimizing Dockerfiles  
-- Managing multi-service apps using Docker Compose  
-- Basic deployment on VPS with Docker  
+</div>
 
 ---
 
-## 📚 Education
+## 🛠️ Tech Stack & Skills
 
-- **Universitas Teknokrat Indonesia**  
-  Informatics — *2024 – Present*
+<div align="center">
 
----
+### 🐧 Operating Systems
 
-## 📈 GitHub Stats
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+`Linux CLI & Scripting` • `Ubuntu Development` • `Kali Security Testing` • `Bash & Terminal Utilities`
 
 ---
 
-<p align="center">
-  <i>"Progress, no matter how small, is still progress."</i>
-</p>
+### 🔐 Cybersecurity
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Romm31&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+![Cryptography](https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4ECDC4?style=for-the-badge&logo=googleearth&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+
+`Cryptography & Forensics` • `OSINT` • `Packet Analysis` • `Network Security`
+
+---
+
+### 💻 Programming & Web Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+`Python Basics` • `JavaScript Fundamentals` • `TypeScript` • `Next.js` • `HTML & CSS` • `PHP`
+
+---
+
+### 🐳 Infrastructure & Containerization
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+`Containerization` • `Dockerfile Optimization` • `Docker Compose` • `VPS Deployment`
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romm31&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Romm31&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+
+---
+
+### 🚀 Let's Connect and Build Something Amazing!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+</div>
