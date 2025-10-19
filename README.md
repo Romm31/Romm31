@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:4A0000&height=200&section=header&text=ERWIN%20WIJAYA&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20System%20Administrator%20%7C%20Developer&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Linux+System+Administrator;Aspiring+Web+Developer;CTF+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Linux+System+Administrator;Aspiring+Web+Developer;CTF+Player" alt="Typing SVG" />
 </h3>
 
 <br/>
@@ -24,11 +24,11 @@
 
 ### Current Focus Areas
 
-- 🔐 **Cybersecurity Research** - Web exploitation, cryptography, and binary analysis
+- 🔐 **Cybersecurity Enthusiast** - Web exploitation, cryptography, and binary analysis
 - 🐧 **Linux Systems** - Advanced system administration and automation
 - 🌐 **Web Development** - Modern full-stack development with Next.js and TypeScript
 - 🐳 **DevOps** - Containerization and infrastructure management
-- 🚩 **CTF Competitions** - Continuous skill development through practical challenges
+- 🚩 **CTF Player** - Continuous skill development through practical challenges
 
 <br clear="right"/>
 
@@ -96,8 +96,8 @@ security_domains = {
         ]
     },
     
-    "Security Operations": {
-        "skills": [
+    "Additional Skills": {
+        "tools": [
             "Network Traffic Analysis (Wireshark)",
             "Vulnerability Scanning (Nmap)",
             "Open Source Intelligence (OSINT)",
@@ -152,10 +152,35 @@ security_domains = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=dark&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=DC143C&currStreakLabel=8B0000&sideLabels=8B0000&dates=C9D1D9"/>
+### 📈 Performance Metrics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romm31&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=C9D1D9&langs_count=8"/>
+<table>
+<tr>
+<td align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
+</td>
+<td align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=dark&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=DC143C&currStreakLabel=8B0000&sideLabels=8B0000&dates=C9D1D9"/>
+</td>
+</tr>
+</table>
+
+### 💻 Language Distribution & Activity
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romm31&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=C9D1D9&langs_count=8"/>
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Romm31&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B0000&line=8B0000&point=DC143C&area=true&area_color=8B0000"/>
+</td>
+</tr>
+</table>
+
+### 🔥 Contribution Patterns
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Romm31&bg_color=0d1117&color=8B0000&line=DC143C&point=8B0000&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" width="100%"/>
 
 </div>
 
