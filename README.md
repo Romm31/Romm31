@@ -97,14 +97,6 @@ security_domains = {
     }
 }
 
-# Additional Security Tools
-security_tools = [
-    "Network Traffic Analysis (Wireshark)",
-    "Vulnerability Scanning (Nmap)",
-    "Open Source Intelligence (OSINT)",
-    "Digital Forensics & Incident Response",
-    "Security Tool Development"
-]
 ```
 
 ---
@@ -250,7 +242,7 @@ security_tools = [
 |:--------:|:-------------------:|
 | 📧 Email | [erwinwijaya6510@gmail.com](mailto:erwinwijaya6510@gmail.com) |
 | 💼 LinkedIn | [Erwin Wijaya](https://linkedin.com/in/erwin-wijaya-b68b11299) |
-| 💬 Discord | [Join Server](https://discord.gg/EfMsJTDf) |
+| 💬 Discord | [Contact me on Discord](https://discord.gg/EfMsJTDf) |
 
 ### Profile Analytics
 
@@ -265,6 +257,5 @@ security_tools = [
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:4A0000&height=120&section=footer"/>
 
-**© 2025 Erwin Wijaya** | *Committed to Excellence in Cybersecurity and Software Engineering*
 
 </div>
