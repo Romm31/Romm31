@@ -192,30 +192,31 @@ security_domains = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'default', 'themeVariables': {
-  'fontSize':'18px',
-  'fontFamily':'arial',
-  'darkMode':'false',
-  'background':'#FAEBD7',
-  'primaryColor':'#A01623',
-  'primaryTextColor':'#FFF5EE',
-  'primaryBorderColor':'#7B1113',
-  'lineColor':'#7B1113',
-  'secondaryColor':'#B03030',
-  'secondaryTextColor':'#2B1B17',
-  'secondaryBorderColor':'#7B1113',
-  'tertiaryColor':'#8B0000',
-  'tertiaryTextColor':'#FFF5EE',
-  'tertiaryBorderColor':'#7B1113',
-  'clusterBkg':'#F5DEB3',
-  'clusterBorder':'#7B1113',
-  'titleColor':'#A01623',
-  'edgeLabelBackground':'#FFF5EE',
-  'nodeTextColor':'#2B1B17',
-  'mainBkg':'#A01623',
-  'nodeBorder':'#7B1113',
-  'textColor':'#2B1B17'
+%%{init: {'theme': 'dark', 'themeVariables': {
+  'fontSize': '18px',
+  'fontFamily': 'arial',
+  'darkMode': 'true',
+  'background': '#0d0d0d',
+  'primaryColor': '#b30000',
+  'primaryTextColor': '#ffffff',
+  'primaryBorderColor': '#ff4d4d',
+  'lineColor': '#ff4d4d',
+  'secondaryColor': '#cc3333',
+  'secondaryTextColor': '#fff',
+  'secondaryBorderColor': '#ff4d4d',
+  'tertiaryColor': '#ff6666',
+  'tertiaryTextColor': '#1a1a1a',
+  'tertiaryBorderColor': '#ff4d4d',
+  'clusterBkg': '#1a1a1a',
+  'clusterBorder': '#ff4d4d',
+  'titleColor': '#ff4d4d',
+  'edgeLabelBackground': '#0d0d0d',
+  'nodeTextColor': '#ffffff',
+  'mainBkg': '#b30000',
+  'nodeBorder': '#ff4d4d',
+  'textColor': '#ffffff'
 }}}%%
+
 mindmap
   root((Erwin<br/>Wijaya))
     Cybersecurity
