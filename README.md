@@ -199,44 +199,28 @@ security_tools = [
 
 <div align="center">
 
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🔐 Cybersecurity
-- Web Security
-- Cryptography
-- Binary Analysis
-- Network Security
-
-</td>
-<td width="25%" align="center">
-
-### 🐧 Linux Administration
-- System Management
-- Bash Scripting
-- Server Configuration
-
-</td>
-<td width="25%" align="center">
-
-### 🌐 Web Development
-- Next.js
-- TypeScript
-- Docker
-- CI/CD
-
-</td>
-<td width="25%" align="center">
-
-### 📈 Professional Growth
-- CTF Competitions
-- Open Source
-- Skill Building
-
-</td>
-</tr>
-</table>
+```mermaid
+%%{init: {'theme':'default', 'themeVariables': { 'fontSize':'16px', 'darkMode':'false', 'background':'#ffffff', 'primaryColor':'#8B0000', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#8B0000', 'lineColor':'#8B0000', 'secondaryColor':'#A52A2A', 'tertiaryColor':'#DC143C', 'clusterBkg':'#f0f0f0', 'clusterBorder':'#8B0000', 'titleColor':'#8B0000', 'edgeLabelBackground':'#ffffff', 'nodeTextColor':'#ffffff', 'mainBkg':'#8B0000', 'nodeBorder':'#8B0000', 'textColor':'#000000'}}}%%
+mindmap
+  root((Erwin Wijaya))
+    Cybersecurity
+      Web Security
+      Cryptography
+      Binary Analysis
+      Network Security
+    Linux Administration
+      System Management
+      Bash Scripting
+      Server Configuration
+    Web Development
+      Next.js
+      TypeScript
+      Docker
+      CI/CD
+    Professional Growth
+      CTF Competitions
+      Open Source Contribution
+```
 
 </div>
 
@@ -250,7 +234,7 @@ security_tools = [
 |:--------:|:-------------------:|
 | 📧 Email | [erwinwijaya6510@gmail.com](mailto:erwinwijaya6510@gmail.com) |
 | 💼 LinkedIn | [Erwin Wijaya](https://linkedin.com/in/erwin-wijaya-b68b11299) |
-| 💬 Discord | [Join Server](https://discord.gg/EfMsJTDf) |
+| 💬 Discord | [Contact me](https://discord.gg/EfMsJTDf) |
 
 ### Profile Analytics
 
