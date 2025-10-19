@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:4A0000&height=200&section=header&text=ERWIN%20WIJAYA&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20System%20Administrator%20%7C%20Web%20Developer&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:4A0000&height=200&section=header&text=ERWIN%20WIJAYA&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20System%20Administrator%20%7C%20Developer&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
 
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Linux+System+Administrator;Aspiring+Web+Developer;CTF+Player" alt="Typing SVG" />
@@ -97,6 +97,14 @@ security_domains = {
     }
 }
 
+# Additional Security Tools
+security_tools = [
+    "Network Traffic Analysis (Wireshark)",
+    "Vulnerability Scanning (Nmap)",
+    "Open Source Intelligence (OSINT)",
+    "Digital Forensics & Incident Response",
+    "Security Tool Development"
+]
 ```
 
 ---
@@ -192,7 +200,7 @@ security_domains = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#8B0000','primaryTextColor':'#ffffff','primaryBorderColor':'#DC143C','lineColor':'#8B0000','secondaryColor':'#DC143C','tertiaryColor':'#A52A2A','background':'#ffffff','mainBkg':'#8B0000','secondBkg':'#DC143C','tertiaryBkg':'#A52A2A','textColor':'#ffffff','border1':'#8B0000','border2':'#DC143C'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#8B0000','primaryTextColor':'#ffffff','primaryBorderColor':'#DC143C','lineColor':'#DC143C','secondaryColor':'#A52A2A','tertiaryColor':'#CD5C5C','noteBkgColor':'#8B0000','noteTextColor':'#ffffff','mainBkg':'#8B0000','secondBkg':'#A52A2A','lineColor':'#DC143C','border1':'#DC143C','border2':'#DC143C','clusterBkg':'#8B0000','clusterBorder':'#DC143C','titleColor':'#ffffff','edgeLabelBackground':'#8B0000','nodeTextColor':'#ffffff'}}}%%
 mindmap
   root((Erwin Wijaya))
     Cybersecurity
