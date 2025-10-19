@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🔐%20ERWIN%20WIJAYA%20🔐&fontSize=50&fontAlignY=35&desc=⚡%20Cybersecurity%20Enthusiast%20%7C%20CTF%20Hunter%20%7C%20Linux%20Hacker%20%7C%20Web%20Developer%20⚡&descAlignY=55&descAlign=50&animation=twinkling&fontColor=00F7FF&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🔐%20ERWIN%20WIJAYA%20🔐&fontSize=50&fontAlignY=35&desc=⚡%20Cybersecurity%20Enthusiast%20%7C%20CTF%20Hunter%20%7C%20Linux%20Hacker%20%7C%20Aspiring%20Web%20Developer%20⚡&descAlignY=55&descAlign=50&animation=twinkling&fontColor=00F7FF&descSize=20"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%94%90+Cybersecurity+%26+Ethical+Hacking;%F0%9F%8F%86+CTF+Challenge+Conqueror;%F0%9F%90%A7+Linux+%26+Unix+System+Master;%F0%9F%9A%80+Full+Stack+Web+Developer;%F0%9F%94%A5+Network+Security+Analyst;%F0%9F%92%BB+Docker+%26+DevOps+Explorer;%E2%9A%A1+Always+Learning%2C+Never+Stopping!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%94%90+Cybersecurity+%26+Ethical+Hacking;%F0%9F%8F%86+CTF+Challenge+Conqueror;%F0%9F%90%A7+Linux+%26+Unix+System+Master;%F0%9F%9A%80+Aspiring+Web+Developer;%F0%9F%94%A5+Network+Security+Analyst;%F0%9F%92%BB+Docker+%26+DevOps+Explorer;%E2%9A%A1+Always+Learning%2C+Never+Stopping!" alt="Typing SVG" />
 
 <br/>
 
@@ -64,7 +62,7 @@ class CyberWarrior:
             "🔐 Cybersecurity & Penetration Testing",
             "🚩 CTF Challenges & Competitive Hacking",
             "🐧 Linux/Unix Systems & Server Management",
-            "🌐 Full Stack Web Development",
+            "🌐 Aspiring Web Developer",
             "🔍 Network Analysis & Protocol Research",
             "🐳 Containerization & Cloud Technologies"
         ]
@@ -130,34 +128,48 @@ print("⚡ Let's hack the planet responsibly! ⚡")
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔐 CYBERSECURITY & HACKING ARSENAL
+### 🔐 CYBERSECURITY
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://www.wireshark.org/assets/images/wireshark-fin.png" width="65" height="65" />
-<br/><strong>Wireshark</strong>
-</td>
-<td align="center" width="150">
-<img src="https://nmap.org/images/nmap-logo-256x256.png" width="65" height="65" />
-<br/><strong>Nmap</strong>
-</td>
-<td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" />
-<br/><strong>Cryptography</strong>
-</td>
-<td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65" />
-<br/><strong>OSINT</strong>
-</td>
-<td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" />
-<br/><strong>Forensics</strong>
-</td>
-</tr>
-</table>
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-**🎯 Security Skills:** `Network Packet Analysis` `Port Scanning & Enumeration` `Encryption & Decryption` `Digital Forensics` `Open Source Intelligence` `Vulnerability Assessment` `CTF Problem Solving` `Security Research`
+cybersecurity_skills = {
+    "Web Exploitation": [
+        "SQL Injection",
+        "XSS (Cross-Site Scripting)",
+        "CSRF & Authentication Bypass",
+        "Web Application Vulnerabilities",
+        "API Security Testing"
+    ],
+    
+    "Cryptography": [
+        "Classical Ciphers",
+        "Modern Encryption Algorithms",
+        "Hash Functions & Analysis",
+        "RSA & Asymmetric Cryptography",
+        "Cryptographic Protocol Analysis"
+    ],
+    
+    "Binary Exploitation": [
+        "Buffer Overflow Basics",
+        "Stack & Heap Analysis",
+        "Assembly Language Reading",
+        "Reverse Engineering Fundamentals",
+        "Memory Corruption Techniques"
+    ],
+    
+    "Additional Skills": [
+        "Network Packet Analysis (Wireshark)",
+        "Port Scanning & Enumeration (Nmap)",
+        "OSINT (Open Source Intelligence)",
+        "Digital Forensics",
+        "CTF Problem Solving"
+    ]
+}
+
+print("🔐 Cybersecurity Arsenal Loaded!")
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -233,13 +245,7 @@ print("⚡ Let's hack the planet responsibly! ⚡")
 
 </div>
 
-<div align="center">
-
 ## 📊 GITHUB STATISTICS & ANALYTICS
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-</div>
 
 <table width="100%">
 <tr>
@@ -293,7 +299,7 @@ graph TD
     
     E --> E1[Next.js]
     E --> E2[HTML/CSS]
-    E --> E3[Full Stack]
+    E --> E3[Aspiring Developer]
     
     F --> F1[Docker]
     F --> F2[Git/GitHub]
@@ -338,7 +344,7 @@ graph TD
 - 🔐 Security: Intermediate → Advanced
 - 🐧 Linux: Advanced User
 - 💻 Programming: Multi-Language
-- 🌐 Web Dev: Full Stack Journey
+- 🌐 Web Dev: Aspiring Developer
 - 🐳 Docker: Container Expert Path
 - 🚀 Overall: Constantly Evolving
 
@@ -355,14 +361,6 @@ graph TD
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every%20expert%20was%20once%20a%20beginner.%20Every%20master%20was%20once%20a%20disaster.&author=Unknown)
-
-</div>
-
-## 🎵 CURRENTLY VIBING TO
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l76oq4pqlvselt7fbjk6gddcfy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7ff&bar_color_cover=true)](https://open.spotify.com/user/31l76oq4pqlvselt7fbjk6gddcfy)
 
 </div>
 
@@ -417,20 +415,6 @@ graph TD
 ### 😄 RANDOM DEV HUMOR
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=00F7FF&aColor=FF6B6B)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🎯 FUN FACTS ABOUT ME
-
-- 🔐 I debug with `console.log()` and I'm not ashamed!
-- 🐧 My terminal is my second home
-- ☕ Code + Coffee = Perfect Combo
-- 🌙 Night owl programmer 🦉
-- 🎮 CTF is my favorite game
-- 💡 "It works on my machine" - Every developer ever
-- 🚀 Learning something new every single day!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
