@@ -192,7 +192,30 @@ security_domains = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'default', 'themeVariables': { 'fontSize':'18px', 'fontFamily':'arial', 'darkMode':'false', 'background':'#ffffff', 'primaryColor':'#8B0000', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#8B0000', 'lineColor':'#8B0000', 'secondaryColor':'#A52A2A', 'secondaryTextColor':'#000000', 'secondaryBorderColor':'#8B0000', 'tertiaryColor':'#DC143C', 'tertiaryTextColor':'#000000', 'tertiaryBorderColor':'#8B0000', 'clusterBkg':'#f9f9f9', 'clusterBorder':'#8B0000', 'titleColor':'#8B0000', 'edgeLabelBackground':'#ffffff', 'nodeTextColor':'#000000', 'mainBkg':'#8B0000', 'nodeBorder':'#8B0000', 'textColor':'#000000'}}}%%
+%%{init: {'theme':'default', 'themeVariables': {
+  'fontSize':'18px',
+  'fontFamily':'arial',
+  'darkMode':'false',
+  'background':'#FAEBD7',
+  'primaryColor':'#A01623',
+  'primaryTextColor':'#FFF5EE',
+  'primaryBorderColor':'#7B1113',
+  'lineColor':'#7B1113',
+  'secondaryColor':'#B03030',
+  'secondaryTextColor':'#2B1B17',
+  'secondaryBorderColor':'#7B1113',
+  'tertiaryColor':'#8B0000',
+  'tertiaryTextColor':'#FFF5EE',
+  'tertiaryBorderColor':'#7B1113',
+  'clusterBkg':'#F5DEB3',
+  'clusterBorder':'#7B1113',
+  'titleColor':'#A01623',
+  'edgeLabelBackground':'#FFF5EE',
+  'nodeTextColor':'#2B1B17',
+  'mainBkg':'#A01623',
+  'nodeBorder':'#7B1113',
+  'textColor':'#2B1B17'
+}}}%%
 mindmap
   root((Erwin<br/>Wijaya))
     Cybersecurity
