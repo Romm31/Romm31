@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:4A0000&height=200&section=header&text=ERWIN%20WIJAYA&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20System%20Administrator%20%7C%20Developer&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:4A0000&height=200&section=header&text=ERWIN%20WIJAYA&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20System%20Administrator%20%7C%20DWeb%20Developer&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
 
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Linux+System+Administrator;Aspiring+Web+Developer;CTF+Player" alt="Typing SVG" />
@@ -94,18 +94,17 @@ security_domains = {
             "Reverse Engineering Fundamentals",
             "Debugger & Disassembler Usage"
         ]
-    },
-    
-    "Additional Skills": {
-        "tools": [
-            "Network Traffic Analysis (Wireshark)",
-            "Vulnerability Scanning (Nmap)",
-            "Open Source Intelligence (OSINT)",
-            "Digital Forensics & Incident Response",
-            "Security Tool Development"
-        ]
     }
 }
+
+# Additional Security Tools
+security_tools = [
+    "Network Traffic Analysis (Wireshark)",
+    "Vulnerability Scanning (Nmap)",
+    "Open Source Intelligence (OSINT)",
+    "Digital Forensics & Incident Response",
+    "Security Tool Development"
+]
 ```
 
 ---
@@ -201,7 +200,7 @@ security_domains = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#8B0000','primaryTextColor':'#fff','primaryBorderColor':'#8B0000','lineColor':'#8B0000','secondaryColor':'#4A0000','tertiaryColor':'#2D0000'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#8B0000','primaryTextColor':'#ffffff','primaryBorderColor':'#DC143C','lineColor':'#8B0000','secondaryColor':'#DC143C','tertiaryColor':'#A52A2A','background':'#ffffff','mainBkg':'#8B0000','secondBkg':'#DC143C','tertiaryBkg':'#A52A2A','textColor':'#ffffff','border1':'#8B0000','border2':'#DC143C'}}}%%
 mindmap
   root((Erwin Wijaya))
     Cybersecurity
@@ -221,7 +220,6 @@ mindmap
     Professional Growth
       CTF Competitions
       Open Source Contribution
-      Security Research
 ```
 
 </div>
