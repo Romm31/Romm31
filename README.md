@@ -192,10 +192,9 @@ security_domains = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {
+%%{init: {'theme': 'base', 'themeVariables': {
   'fontSize': '18px',
   'fontFamily': 'arial',
-  'darkMode': 'true',
   'background': '#0d0d0d',
   'primaryColor': '#e63946',
   'primaryTextColor': '#ffffff',
@@ -210,12 +209,11 @@ security_domains = {
   'clusterBkg': '#1a1a1a',
   'clusterBorder': '#ff6b6b',
   'titleColor': '#ff6b6b',
-  'edgeLabelBackground': '#1a1a1a',
   'nodeTextColor': '#ffffff',
   'mainBkg': '#e63946',
-  'nodeBorder': '#ff6b6b',
   'textColor': '#ffffff'
 }}}%%
+
 
 
 mindmap
