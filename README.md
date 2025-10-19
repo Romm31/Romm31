@@ -234,7 +234,7 @@ mindmap
 |:--------:|:-------------------:|
 | 📧 Email | [erwinwijaya6510@gmail.com](mailto:erwinwijaya6510@gmail.com) |
 | 💼 LinkedIn | [Erwin Wijaya](https://linkedin.com/in/erwin-wijaya-b68b11299) |
-| 💬 Discord | [Contact me](https://discord.gg/EfMsJTDf) |
+| 💬 Discord | [Join Server](https://discord.gg/EfMsJTDf) |
 
 ### Profile Analytics
 
