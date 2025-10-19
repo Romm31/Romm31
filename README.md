@@ -169,7 +169,7 @@ security_domains = {
 </tr>
 </table>
 
-### 🔥 Contribution Patterns
+### Contribution Patterns
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Romm31&bg_color=0d1117&color=8B0000&line=DC143C&point=8B0000&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" width="100%"/>
 
@@ -177,7 +177,7 @@ security_domains = {
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -187,7 +187,7 @@ security_domains = {
 
 ---
 
-## 🎯 Current Learning Path
+## Current Learning Path
 
 <div align="center">
 
@@ -197,25 +197,26 @@ security_domains = {
   'fontFamily': 'arial',
   'darkMode': 'true',
   'background': '#0d0d0d',
-  'primaryColor': '#b30000',
+  'primaryColor': '#e63946',
   'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#ff4d4d',
-  'lineColor': '#ff4d4d',
-  'secondaryColor': '#cc3333',
-  'secondaryTextColor': '#fff',
-  'secondaryBorderColor': '#ff4d4d',
-  'tertiaryColor': '#ff6666',
-  'tertiaryTextColor': '#1a1a1a',
-  'tertiaryBorderColor': '#ff4d4d',
+  'primaryBorderColor': '#ff6b6b',
+  'lineColor': '#ff6b6b',
+  'secondaryColor': '#b22222',
+  'secondaryTextColor': '#ffffff',
+  'secondaryBorderColor': '#ff6b6b',
+  'tertiaryColor': '#ffb347',
+  'tertiaryTextColor': '#000000',
+  'tertiaryBorderColor': '#ff6b6b',
   'clusterBkg': '#1a1a1a',
-  'clusterBorder': '#ff4d4d',
-  'titleColor': '#ff4d4d',
-  'edgeLabelBackground': '#0d0d0d',
+  'clusterBorder': '#ff6b6b',
+  'titleColor': '#ff6b6b',
+  'edgeLabelBackground': '#1a1a1a',
   'nodeTextColor': '#ffffff',
-  'mainBkg': '#b30000',
-  'nodeBorder': '#ff4d4d',
+  'mainBkg': '#e63946',
+  'nodeBorder': '#ff6b6b',
   'textColor': '#ffffff'
 }}}%%
+
 
 mindmap
   root((Erwin<br/>Wijaya))
