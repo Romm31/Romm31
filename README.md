@@ -97,14 +97,6 @@ security_domains = {
     }
 }
 
-# Additional Security Tools
-security_tools = [
-    "Network Traffic Analysis (Wireshark)",
-    "Vulnerability Scanning (Nmap)",
-    "Open Source Intelligence (OSINT)",
-    "Digital Forensics & Incident Response",
-    "Security Tool Development"
-]
 ```
 
 ---
