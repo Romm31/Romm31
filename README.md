@@ -80,7 +80,6 @@
 <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Vim-8B0000?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
 </p>
 
 ### Cybersecurity Skills
