@@ -218,7 +218,7 @@ for skill in currently_learning:
 <br/><br/>
 <b>Discord</b>
 <br/>
-<a href="https://discord.gg/EfMsJTDf">Join Server</a>
+<a href="https://discord.gg/EfMsJTDf">Contact Me</a>
 </td>
 </tr>
 </table>
