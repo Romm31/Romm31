@@ -163,52 +163,63 @@ security_tools = {
 
 ---
 
-## 🎯 Learning Roadmap
+## 🎯 Current Focus & Learning Journey
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {
-  'fontSize': '16px',
-  'fontFamily': 'arial',
-  'background': '#0d0d0d',
-  'primaryColor': '#8B0000',
-  'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#DC143C',
-  'lineColor': '#DC143C',
-  'secondaryColor': '#A52A2A',
-  'secondaryTextColor': '#ffffff',
-  'secondaryBorderColor': '#DC143C',
-  'tertiaryColor': '#CD5C5C',
-  'tertiaryTextColor': '#ffffff',
-  'tertiaryBorderColor': '#DC143C',
-  'clusterBkg': '#1a1a1a',
-  'clusterBorder': '#DC143C',
-  'titleColor': '#DC143C',
-  'nodeTextColor': '#ffffff',
-  'mainBkg': '#8B0000',
-  'textColor': '#ffffff'
-}}}%%
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/security-checked.png" width="80"/>
+<h3>🔐 Cybersecurity</h3>
+<p>
+• Web Security<br/>
+• Cryptography<br/>
+• Binary Analysis<br/>
+• Network Security
+</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/linux.png" width="80"/>
+<h3>🐧 Linux Admin</h3>
+<p>
+• System Management<br/>
+• Bash Scripting<br/>
+• Server Config<br/>
+• Automation
+</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="80"/>
+<h3>🌐 Web Dev</h3>
+<p>
+• Next.js<br/>
+• TypeScript<br/>
+• Docker<br/>
+• CI/CD
+</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80"/>
+<h3>📈 Growth</h3>
+<p>
+• CTF Competitions<br/>
+• Open Source<br/>
+• Skill Building<br/>
+• Networking
+</p>
+</td>
+</tr>
+</table>
 
-mindmap
-  root((Erwin<br/>Wijaya))
-    Cybersecurity
-      Web Security
-      Cryptography
-      Binary Analysis
-      Network Security
-    Linux Administration
-      System Management
-      Bash Scripting
-      Server Configuration
-    Web Development
-      Next.js
-      TypeScript
-      Docker
-      CI/CD
-    Professional Growth
-      CTF Competitions
-      Open Source Contribution
+### 📚 Currently Learning
+
+```diff
++ Docker Orchestration & Kubernetes Basics
++ Advanced TypeScript Patterns
++ Next.js 15 Features & Optimization
++ Web Application Security Testing
++ CTF Challenge Solutions & Writeups
 ```
 
 </div>
