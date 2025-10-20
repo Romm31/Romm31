@@ -237,7 +237,6 @@ Community
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:8B0000&height=120&section=footer" />
 
-**⭐ From [Romm31](https://github.com/Romm31) with ❤️**  
-*Built with passion and coffee ☕*
+**[Romm31](https://github.com/Romm31)**  
 
 </div>
