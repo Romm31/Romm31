@@ -7,13 +7,13 @@
 <br/>
 
 <a href="mailto:erwinwijaya6510@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://linkedin.com/in/erwin-wijaya-b68b11299">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://discord.gg/EfMsJTDf">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/><br/>
@@ -47,111 +47,54 @@
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology Stack
 
 <div align="center">
 
 ### Operating Systems & Shell
 
 <p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Ubuntu-8B0000?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/Debian-8B0000?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+<img src="https://img.shields.io/badge/Kali_Linux-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
+<img src="https://img.shields.io/badge/Bash-8B0000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
 ### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-8B0000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/PHP-8B0000?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### Frameworks & Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+<img src="https://img.shields.io/badge/Next.js-8B0000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Vim-8B0000?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+</p>
+
+### Cybersecurity Skills
+
+<p>
+<img src="https://img.shields.io/badge/Web_Exploitation-8B0000?style=for-the-badge" alt="Web Exploitation"/>
+<img src="https://img.shields.io/badge/Cryptography-8B0000?style=for-the-badge" alt="Cryptography"/>
+<img src="https://img.shields.io/badge/Binary_Exploitation-8B0000?style=for-the-badge" alt="Binary Exploitation"/>
+<img src="https://img.shields.io/badge/OSINT-8B0000?style=for-the-badge" alt="OSINT"/>
+<img src="https://img.shields.io/badge/Network_Security-8B0000?style=for-the-badge" alt="Network Security"/>
+<img src="https://img.shields.io/badge/Forensics-8B0000?style=for-the-badge" alt="Forensics"/>
 </p>
 
 </div>
-
----
-
-## 🔐 Cybersecurity Skills
-
-<details open>
-<summary><b>🌐 Web Exploitation</b></summary>
-<br/>
-
-```python
-web_exploitation = {
-    "SQL Injection": "Database security testing & exploitation",
-    "Cross-Site Scripting (XSS)": "Client-side vulnerability analysis",
-    "Authentication Bypass": "Session management & access control",
-    "CSRF": "Cross-site request forgery techniques",
-    "API Security": "REST/GraphQL security assessment"
-}
-```
-
-</details>
-
-<details>
-<summary><b>🔒 Cryptography</b></summary>
-<br/>
-
-```python
-cryptography = {
-    "Classical Ciphers": "Caesar, Vigenère, substitution ciphers",
-    "Modern Encryption": "AES, RSA, elliptic curve cryptography",
-    "Hash Functions": "MD5, SHA family, bcrypt analysis",
-    "PKI": "Public key infrastructure & digital signatures",
-    "Cryptanalysis": "Breaking weak encryption implementations"
-}
-```
-
-</details>
-
-<details>
-<summary><b>💾 Binary Exploitation</b></summary>
-<br/>
-
-```python
-binary_exploitation = {
-    "Memory Corruption": "Stack & heap overflow vulnerabilities",
-    "Buffer Overflow": "Control flow hijacking techniques",
-    "Assembly": "x86/x64 assembly language analysis",
-    "Reverse Engineering": "Binary analysis & decompilation",
-    "Debugging": "GDB, radare2, IDA Pro usage"
-}
-```
-
-</details>
-
-<details>
-<summary><b>🛡️ Security Tools & Techniques</b></summary>
-<br/>
-
-```python
-security_tools = {
-    "Wireshark": "Network traffic analysis & packet inspection",
-    "Nmap": "Port scanning & service enumeration",
-    "OSINT": "Open source intelligence gathering",
-    "Forensics": "Digital forensics & incident response",
-    "Automation": "Security tool development with Python"
-}
-```
-
-</details>
 
 ---
 
@@ -159,27 +102,15 @@ security_tools = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=DC143C&text_color=C9D1D9&count_private=true&include_all_commits=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=default&hide_border=true&title_color=8B0000&icon_color=DC143C&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=DC143C&fire=FF6B6B&currStreakLabel=8B0000&sideLabels=DC143C&dates=C9D1D9">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=default&hide_border=true&stroke=8B0000&ring=DC143C&fire=FF6B6B&currStreakLabel=8B0000&sideLabels=DC143C" alt="GitHub Streak"/>
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Romm31&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=DC143C&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romm31&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=DC143C&fire=FF6B6B&currStreakLabel=8B0000&sideLabels=DC143C&dates=C9D1D9" alt="GitHub Streak"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Romm31&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romm31&layout=compact&theme=default&hide_border=true&title_color=8B0000&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Romm31&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B0000&line=DC143C&point=FF6B6B&area=true&area_color=8B0000">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Romm31&theme=minimal&hide_border=true&color=8B0000&line=DC143C&point=FF6B6B&area=true&area_color=8B0000" alt="Activity Graph"/>
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romm31&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Romm31&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B0000&line=DC143C&point=FF6B6B&area=true&area_color=8B0000" alt="Activity Graph"/>
 
 </div>
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -187,7 +118,7 @@ security_tools = {
 
 </div>
 
-### 📈 Detailed Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
 
@@ -197,50 +128,54 @@ security_tools = {
 
 ---
 
-## 🎯 Current Learning Path
+## 🎯 Current Focus
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+<img src="https://img.icons8.com/color/96/000000/security-checked.png" width="80"/>
+<br/><br/>
 <h3>🔐 Cybersecurity</h3>
 <p>
-• Web Exploitation<br/>
-• Cryptography<br/>
-• Binary Analysis<br/>
-• Network Security
+Web Exploitation<br/>
+Cryptography<br/>
+Binary Analysis<br/>
+Network Security
 </p>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-<h3>🐧 Linux Admin</h3>
+<img src="https://img.icons8.com/color/96/000000/linux.png" width="80"/>
+<br/><br/>
+<h3>🐧 Linux</h3>
 <p>
-• System Management<br/>
-• Bash Scripting<br/>
-• Server Configuration<br/>
-• Automation
+System Management<br/>
+Bash Scripting<br/>
+Server Config<br/>
+Automation
 </p>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-<h3>🌐 Web Development</h3>
+<img src="https://img.icons8.com/color/96/000000/code.png" width="80"/>
+<br/><br/>
+<h3>🌐 Web Dev</h3>
 <p>
-• Next.js<br/>
-• TypeScript<br/>
-• Docker<br/>
-• CI/CD
+Next.js<br/>
+TypeScript<br/>
+Docker<br/>
+CI/CD
 </p>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
-<h3>📈 Growth</h3>
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80"/>
+<br/><br/>
+<h3>🏆 Growth</h3>
 <p>
-• CTF Competitions<br/>
-• Open Source<br/>
-• Skill Building<br/>
-• Community
+CTF Competitions<br/>
+Open Source<br/>
+Skill Building<br/>
+Community
 </p>
 </td>
 </tr>
@@ -249,50 +184,50 @@ security_tools = {
 ### 📚 Currently Learning
 
 ```diff
-+ Docker Orchestration & Kubernetes Basics
-+ Advanced TypeScript Patterns & Best Practices
-+ Next.js 15 Features & Performance Optimization
-+ Web Application Security Testing & Penetration Testing
-+ CTF Challenge Solutions & Technical Writeups
++ Docker Orchestration & Kubernetes
++ Advanced TypeScript Patterns
++ Next.js 15 & Performance Optimization
++ Web Security & Penetration Testing
++ CTF Solutions & Technical Writeups
 ```
 
 </div>
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Connect With Me
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" alt="Email"/>
+<img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="80"/>
 <br/><br/>
 <b>Email</b>
 <br/>
 <a href="mailto:erwinwijaya6510@gmail.com">erwinwijaya6510@gmail.com</a>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" alt="LinkedIn"/>
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/>
 <br/><br/>
 <b>LinkedIn</b>
 <br/>
 <a href="https://linkedin.com/in/erwin-wijaya-b68b11299">Erwin Wijaya</a>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.png" width="80" alt="Discord"/>
+<img src="https://img.icons8.com/fluency/96/000000/discord-logo.png" width="80"/>
 <br/><br/>
 <b>Discord</b>
 <br/>
-<a href="https://discord.gg/EfMsJTDf">Join My Server</a>
+<a href="https://discord.gg/EfMsJTDf">Join Server</a>
 </td>
 </tr>
 </table>
 
-### 💭 Daily Motivation
+### 💭 Quote
 
-> *"The only way to do great work is to love what you do. Stay curious, keep learning!"*
+> *"Success is not final, failure is not fatal: it is the courage to continue that counts."*
 
 </div>
 
@@ -303,6 +238,6 @@ security_tools = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:8B0000&height=120&section=footer" />
 
 **⭐ From [Romm31](https://github.com/Romm31) with ❤️**  
-*Made with passion, coffee ☕, and a lot of code 💻*
+*Built with passion and coffee ☕*
 
 </div>
