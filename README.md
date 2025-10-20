@@ -139,9 +139,6 @@
 <h3>🔐 Cybersecurity</h3>
 <p>
 Web Exploitation<br/>
-Cryptography<br/>
-Binary Analysis<br/>
-Network Security
 </p>
 </td>
 <td align="center" width="25%">
