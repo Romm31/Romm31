@@ -181,7 +181,10 @@ Community
 </tr>
 </table>
 
+</div>
+
 ### 📚 Currently Learning
+
 ```python
 currently_learning = [
     "Docker Orchestration & Kubernetes",
@@ -194,8 +197,6 @@ currently_learning = [
 for skill in currently_learning:
     print(f"📖 Learning: {skill}")
 ```
-
-</div>
 
 ---
 
@@ -241,6 +242,4 @@ for skill in currently_learning:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:8B0000&height=120&section=footer" />
 
-**[Romm31](https://github.com/Romm31)**  
-
-</div>
+**[Romm31](https://github.com/Romm31)**
