@@ -182,13 +182,17 @@ Community
 </table>
 
 ### 📚 Currently Learning
+```python
+currently_learning = [
+    "Docker Orchestration & Kubernetes",
+    "Advanced TypeScript Patterns",
+    "Next.js 15 & Performance Optimization",
+    "Web Security & Penetration Testing",
+    "CTF Solutions & Technical Writeups"
+]
 
-```diff
-+ Docker Orchestration & Kubernetes
-+ Advanced TypeScript Patterns
-+ Next.js 15 & Performance Optimization
-+ Web Security & Penetration Testing
-+ CTF Solutions & Technical Writeups
+for skill in currently_learning:
+    print(f"📖 Learning: {skill}")
 ```
 
 </div>
