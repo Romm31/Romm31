@@ -86,11 +86,8 @@
 
 <p>
 <img src="https://img.shields.io/badge/Web_Exploitation-8B0000?style=for-the-badge" alt="Web Exploitation"/>
-<img src="https://img.shields.io/badge/Cryptography-8B0000?style=for-the-badge" alt="Cryptography"/>
-<img src="https://img.shields.io/badge/Binary_Exploitation-8B0000?style=for-the-badge" alt="Binary Exploitation"/>
 <img src="https://img.shields.io/badge/OSINT-8B0000?style=for-the-badge" alt="OSINT"/>
 <img src="https://img.shields.io/badge/Network_Security-8B0000?style=for-the-badge" alt="Network Security"/>
-<img src="https://img.shields.io/badge/Forensics-8B0000?style=for-the-badge" alt="Forensics"/>
 </p>
 
 </div>
